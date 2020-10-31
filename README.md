@@ -8,9 +8,9 @@
 
 原项目scrcpy的客户端是C语言实现的，我用python进行了重写并添加了一些功能。
 
-![image](https://github.com/primejava/auto/blob/main/image/image.png)
+![image](https://github.com/primejava/android-python-client/blob/main/image.png)
 
-详情见[视频](https://www.bilibili.com/video/BV19V411y7se/)。
+详情见[视频](https://www.bilibili.com/video/BV1ZV411y7PR/)。
 
 # 使用方法
 
